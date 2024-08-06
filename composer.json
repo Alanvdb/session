@@ -17,5 +17,7 @@
             "email": "alanvdb.coder@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
